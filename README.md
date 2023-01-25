@@ -212,16 +212,18 @@ RegisterNumber:  22008415
 ### RTL LOGIC FOR FLIPFLOPS 
 
 ## SR FLIP FLOP : 
-![Uploading SR.jpg…]()
 
 
 ## JK FLIP FLOP :
 
 
+
 ## D FLIP FLOP :
 
 
+
 ## T FLIP FLOP :
+
 
 
 
