@@ -102,7 +102,10 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-/* write all the steps invloved */
+1. Using nand gates and wires construct SR flip flop.
+2. Repeat same steps to construct JK, D, T flip flops.
+3. Find Rtl logic and timing diagram for all flip flops.
+4. End the program.
 
 
 
@@ -209,12 +212,16 @@ RegisterNumber:  22008415
 ### RTL LOGIC FOR FLIPFLOPS 
 
 ## SR FLIP FLOP : 
+![Uploading SR.jpg…]()
 
-## JK FLIP FLOP
 
-## D FLIP FLOP
+## JK FLIP FLOP :
 
-## T FLIP FLOP
+
+## D FLIP FLOP :
+
+
+## T FLIP FLOP :
 
 
 
@@ -228,3 +235,4 @@ RegisterNumber:  22008415
 
 
 ### RESULTS 
+
