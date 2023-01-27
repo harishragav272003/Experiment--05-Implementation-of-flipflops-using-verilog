@@ -212,15 +212,19 @@ RegisterNumber:  22008415
 ### RTL LOGIC FOR FLIPFLOPS 
 
 ## SR FLIP FLOP : 
+![SR](https://user-images.githubusercontent.com/119345345/215007664-797ddb19-782f-45f3-bf58-a4840633dab4.jpg)
 
 
 ## JK FLIP FLOP :
+![JK](https://user-images.githubusercontent.com/119345345/215007692-3e922ca3-7df2-415c-9693-c40f4f8713f4.jpg)
 
 
 ## D FLIP FLOP :
+![D](https://user-images.githubusercontent.com/119345345/215007710-81114036-c562-4f58-a1b8-6f024622bda5.jpg)
 
 
 ## T FLIP FLOP :
+![T](https://user-images.githubusercontent.com/119345345/215007735-a7dce323-f78d-47c2-b96a-6455b7d8155b.jpg)
 
 
 
