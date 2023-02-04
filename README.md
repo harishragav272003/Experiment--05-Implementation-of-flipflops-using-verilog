@@ -229,8 +229,23 @@ RegisterNumber:  22008415
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
+## SR FLIP FLOP : 
+![image](https://user-images.githubusercontent.com/119345345/216765135-836f5f53-73a4-42af-a025-4b39cdfabd34.png)
 
 
+
+## JK FLIP FLOP :
+![image](https://user-images.githubusercontent.com/119345345/216765138-6cc8f16d-2475-4a74-9fe3-aa064c49e15a.png)
+
+
+
+## D FLIP FLOP :
+![image](https://user-images.githubusercontent.com/119345345/216765146-37e7bdac-6802-4089-9f86-cd8002f0b42a.png)
+
+
+
+## T FLIP FLOP :
+![image](https://user-images.githubusercontent.com/119345345/216765154-c2634a2a-e716-406b-8a45-105dbbfde6bb.png)
 
 
 
@@ -238,4 +253,4 @@ RegisterNumber:  22008415
 
 
 ### RESULTS 
-
+Thus, the implementation of SR , JK,D, T Flip Flops using nand gates are done successfully.
